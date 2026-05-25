@@ -42,7 +42,7 @@
         "google-tts-api": "^2.0.2",
         "human-readable": "^0.2.1",
         "jimp": "*",
-        "js-confuser": "^2.0.0",
+        "js-confuser": "^1.0.9",
         "lolcatjs": "^2.4.3",
         "megajs": "^1.3.2",
         "moment-timezone": "^0.5.34",
